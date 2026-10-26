@@ -36,7 +36,21 @@ Flask + SQLite のシンプルなメモアプリ。短い文章を保存・一�
 
 ### 翻訳・Wiki 系ツール / Translation & Wiki Tools
 
-[wikitranslate](https://github.com/Arbeit2025/wikitranslate) / [wikitransgeo](https://github.com/Arbeit2025/wikitransgeo) / [wikisourcesearch](https://github.com/Arbeit2025/wikisourcesearch) / [wikiImagesearch](https://github.com/Arbeit2025/wikiImagesearch) / [volapuktranslate](https://github.com/Arbeit2025/volapuktranslate)
+Wikipedia と翻訳をめぐる、小さな道具のシリーズです。
+*A series of small tools around Wikipedia and translation.*
+
+- [volapuktranslate](https://github.com/Arbeit2025/volapuktranslate) — ヴォラピュク語向けの精度優先翻訳ツール。zhtranslate の前作にあたります
+  *Accuracy-first translation for Volapük — the predecessor of zhtranslate.*
+- [zhtranslate](https://github.com/Arbeit2025/zhtranslate) — 現代中国語への精度優先翻訳ワークベンチ。前作の思想を引き継いだ後継です
+  *Accuracy-first translation workbench for modern Chinese — its successor.*
+- [wikitranslate](https://github.com/Arbeit2025/wikitranslate)（Wikihonyaku）— 英語版と日本語版の Wikipedia を比べ、日本語版がない・情報量が少ない記事（補完候補）を探します
+  *Compares English and Japanese Wikipedia to find articles that are missing or thin in Japanese.*
+- [wikitransgeo](https://github.com/Arbeit2025/wikitransgeo)（WikiTranslate Lite - Geography）— 地理（村・集落・町・川・山・島・湖）に絞って、日本語版がない記事を探す試作版です
+  *A geography-focused variant for finding articles missing in Japanese Wikipedia.*
+- [wikisourcesearch](https://github.com/Arbeit2025/wikisourcesearch)（WikiSource Scout）— Wikipedia を書く前の参考文献・一次資料探しと、引用の下書き作成を助けます
+  *Helps find references and primary sources before writing Wikipedia articles, and drafts citations.*
+- [wikiImagesearch](https://github.com/Arbeit2025/wikiImagesearch)（WikiImage Finder）— Wikimedia Commons から Wikipedia で使いやすい画像を探します。ライセンス情報付きです
+  *Searches Wikimedia Commons for images usable on Wikipedia, with license information.*
 
 ## Links
 
