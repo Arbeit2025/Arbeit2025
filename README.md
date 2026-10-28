@@ -1,4 +1,4 @@
-# Arbeit
+# 🐦Arbeit🛠️
 
 大学生として学びながら、Python / Flask で小さな Web アプリを作っています。
 *I'm a university student building small web apps with Python and Flask.*
