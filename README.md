@@ -34,6 +34,14 @@ Flask + SQLite のシンプルなメモアプリ。短い文章を保存・一�
 
 *A simple memo app built with Flask and SQLite — a personal place to save, list, and delete short notes.*
 
+### [minigame](https://github.com/Arbeit2025/minigame)
+
+Flask + SQLite で作った、自作ゲームだけを集めたミニゲームポータル。第1弾は候補を登録して回すルーレット抽選です。
+
+*A mini-game portal built with Flask and SQLite, collecting only games I made myself. The first title is a roulette draw where you register your own candidates.*
+
+- Live: https://minigame-b1qp.onrender.com/
+
 ### 翻訳・Wiki 系ツール / Translation & Wiki Tools
 
 Wikipedia と翻訳をめぐる、小さな道具のシリーズです。
